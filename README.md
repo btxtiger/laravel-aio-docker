@@ -78,7 +78,7 @@ You can connect to the xdebug server on port `9003`.
    - Port: `80`
    - Debugger: `Xdebug`
    - **ENABLE**: `Use path mappings`: `path/to/your/project` -> `/app`
-7. Install browser extension and enable it in the correct tab.
+7. Install [browser extension](https://www.jetbrains.com/help/phpstorm/browser-debugging-extensions.html) and enable it in the correct tab.
 8. Activate telephone icon in PHPStorm to listen for incoming connections.
 
 ## Serving Javascript app with integrated nginx
